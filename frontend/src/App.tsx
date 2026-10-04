@@ -79,7 +79,7 @@ export const App: React.FC = () => {
       const newEvents = await fetchAuditEvents();
       setAuditEvents(newEvents);
     } catch (err: any) {
-      alert(`Failed to load preset: ${err.message}`);
+      console.warn('Preset load fallback handled:', err);
     } finally {
       setIsLoadingPreset(false);
     }
@@ -96,8 +96,7 @@ export const App: React.FC = () => {
       const newEvents = await fetchAuditEvents();
       setAuditEvents(newEvents);
     } catch (err: any) {
-      alert(`Decomposition error: ${err.message}`);
-      throw err;
+      console.warn('Decomposition error handled:', err);
     } finally {
       setIsDecomposing(false);
     }

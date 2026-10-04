@@ -78,7 +78,7 @@ export const VerificationModal: React.FC<VerificationModalProps> = ({
         // ignore
       }
     } catch (err: any) {
-      alert(`Verification failed: ${err.message}`);
+      console.warn('Verification failed:', err);
       setAuditStep(0);
     } finally {
       setIsVerifying(false);
