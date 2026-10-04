@@ -5,6 +5,8 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-10B981?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/fokrulanthro16-eng/milestonepay-ai)
 [![License](https://img.shields.io/badge/license-Apache--2.0-00E5FF?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-00E5FF?style=for-the-badge&logo=vercel&logoColor=white)](https://milestonepay-ai.vercel.app)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo%20Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/GNiVAmL7INU)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React 18](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
@@ -21,7 +23,7 @@
 1. **Best Use of Bryntum ($1,000 Track)** — Judged by Mats Bryntse, CEO of Bryntum
 2. **Most Impactful / Best Use of PayPal + AI ($5,000 Track)**
 
-[🎥 YouTube Demo Walkthrough](https://youtu.be/GNiVAmL7INU) • [🚀 Interactive API Docs](http://127.0.0.1:8000/docs) • [🏛️ Architecture Spec](docs/architectures/architecture.md)
+🌐 **Live Demo:** [https://milestonepay-ai.vercel.app](https://milestonepay-ai.vercel.app) • 🎥 **YouTube Demo:** [https://youtu.be/GNiVAmL7INU](https://youtu.be/GNiVAmL7INU) • 🚀 **Interactive API Docs:** [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) • 🏛️ **Architecture Spec:** [docs/architectures/architecture.md](docs/architectures/architecture.md)
 
 ---
 
